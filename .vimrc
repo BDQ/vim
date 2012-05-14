@@ -24,9 +24,11 @@ set showcmd
 " give less time for leader timeouts
 set timeoutlen=600
 
-
 "enable nerd-commeter
 filetype plugin on
+
+"clipboard native
+set clipboard=unnamed
 
 "Rename tabs to show tab# and # of viewports
 if exists("+showtabline")
