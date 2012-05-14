@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/briandquinn/Development/spree'
+let g:netrw_dirhist_2='/Users/briandquinn/Development/spree_shared'
+let g:netrw_dirhist_3='/Users/briandquinn/Development/store_works/config/initializers'
+let g:netrw_dirhist_4='/Users/briandquinn/Desktop'
+let g:netrw_dirhist_5='/Users/briandquinn/Development/spree'
+let g:netrw_dirhist_6='/Users/briandquinn/.rvm/gems/ruby-1.9.3-p125/gems/sprockets-2.1.3'
+let g:netrw_dirhist_7='/Users/briandquinn/Development/spray_test'
+let g:netrw_dirhist_8='/Users/briandquinn/Development/spree-deployments/config/deploy/spree_works_website'
+let g:netrw_dirhist_9='/Users/briandquinn/.rvm/gems/ruby-1.9.3-p125/bundler/gems/spree-8eb5a375fe8b'
